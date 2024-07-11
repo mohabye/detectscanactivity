@@ -18,7 +18,7 @@ Telegram Bot API token
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/network-scan-detection.git
+git clone https://github.com/mohabye/detectscanactivity
 cd network-scan-detection
 
 Script Details
